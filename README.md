@@ -115,9 +115,10 @@ Die Anwendung funktioniert vollständig offline, sobald die Schriften und Chart.
 
 ## Lizenz
 
-Dieses Repository steht unter der [MIT-Lizenz](LICENSE).
+Der Quellcode in diesem Repository steht unter der [MIT-Lizenz](LICENSE).  
+Daten, Ergebnisse und Dokumentation stehen unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-Der wissenschaftliche Inhalt (Simulationsdaten, Szenariowerte) basiert auf der open-access Publikation Kelevitz et al. 2025 (CC BY 4.0): https://doi.org/10.3390/en18215601
+Der wissenschaftliche Inhalt (Simulationsdaten, Szenariowerte) basiert auf der Open-Access-Publikation Kelevitz et al. 2025 (CC BY 4.0): [https://doi.org/10.3390/en18215601](https://doi.org/10.3390/en18215601)
 
 ---
 
