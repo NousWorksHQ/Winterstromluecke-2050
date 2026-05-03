@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 NousWorks.ch
+Copyright (c) 2025 Contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,15 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+Scientific content (simulation data, scenario values) is derived from:
+
+Kelevitz K., Haller M., Frommelt M., Meier B.
+"Influence of Scenarios for Space Heating and Domestic Hot Water in Buildings
+on the Winter Electricity Demand of Switzerland in 2050."
+Energies 2025, 18, 5601. https://doi.org/10.3390/en18215601
+
+Published under Creative Commons Attribution (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
