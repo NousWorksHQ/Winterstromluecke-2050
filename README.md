@@ -4,7 +4,7 @@
 
 [![Lizenz: MIT](https://img.shields.io/badge/Lizenz-MIT-blue.svg)](LICENSE)
 [![Studie: DOI](https://img.shields.io/badge/DOI-10.3390%2Fen18215601-green.svg)](https://doi.org/10.3390/en18215601)
-[![GitHub Pages](https://img.shields.io/badge/Demo-GitHub%20Pages-orange.svg)](https://Raffa3l.github.io/Winterstromluecke-2050)
+[![GitHub Pages](https://img.shields.io/badge/Demo-GitHub%20Pages-orange.svg)](https://NousWorks-ch.github.io/Winterstromluecke-2050)
 
 ---
 
