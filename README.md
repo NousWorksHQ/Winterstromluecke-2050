@@ -13,6 +13,8 @@
 
 Diese Web-App veranschaulicht, wie Massnahmen im Schweizer Gebäudesektor die projizierte **Winterstromlücke von 2050** beeinflussen. Vier Parameter können interaktiv variiert werden; das Simulationsergebnis aktualisiert sich in Echtzeit.
 
+[Demo Web-App](https://NousWorksHQ.github.io/Winterstromluecke-2050)
+
 ### Studienbasis
 
 > Kelevitz K., Haller M., Frommelt M., Meier B. —  
