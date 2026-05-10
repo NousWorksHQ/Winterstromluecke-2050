@@ -5,7 +5,7 @@
 [![Lizenz: MIT](https://img.shields.io/badge/Lizenz-MIT-blue.svg)](LICENSE)
 [![Lizenz: CC BY 4.0](https://img.shields.io/badge/Daten%20%26%20Docs-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Studie: DOI](https://img.shields.io/badge/DOI-10.3390%2Fen18215601-green.svg)](https://doi.org/10.3390/en18215601)
-[![GitHub Pages](https://img.shields.io/badge/Demo-GitHub%20Pages-orange.svg)](https://NousWorks-ch.github.io/Winterstromluecke-2050)
+[![GitHub Pages](https://img.shields.io/badge/Demo-GitHub%20Pages-orange.svg)](https://NousWorksHQ.github.io/Winterstromluecke-2050)
 
 ---
 
